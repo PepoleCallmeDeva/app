@@ -1,0 +1,22 @@
+nav{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+}
+
+nav #left{
+    width: 50%;
+    display: flex;
+}
+
+nav #left>h1{
+    height: 40px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav #left>p{
+    font-family: Arial, Helvetica, sans-serif;
+}

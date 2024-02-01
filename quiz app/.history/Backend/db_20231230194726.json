@@ -1,0 +1,78 @@
+{
+    "subjects":{
+        "polity":{
+                    "Questions": "What are two Most Essential Rights of Democracy:",
+                    "A": "Exploitation, Preventive Detention",
+                    "B": "Equality, Freedom",
+                    "C": "Freedom, Preventive Detention",
+                    "D": "Equality Exploitation",
+                    "correct answer": "B",
+                    "asked in": "cgl 22"
+                },
+                {
+                    "Questions": "The system based on individual leadership is a__________system.",
+                    "A": "semi-parliamentary",
+                    "B": "parliamentary",
+                    "C": "presidential",
+                    "D": "semi-presidential",
+                    "correct answer": "C",
+                    "asked in": "cgl 22"
+                },
+                {
+                    "Questions": "The real executive power is vested in the Council of Ministers with the_________as its head.",
+                    "A": "Prime Minister",
+                    "B": "Speaker of Rajya Sabha",
+                    "C": "Vice President",
+                    "D": "President",
+                    "correct answer": "A",
+                    "asked in": "cgl 22"
+                },
+                {
+                    "Questions": "Who has been appointed as the Director General, National Centre for Good Governance (NCGG) in September 2022?",
+                    "A": "Tarun Kapoor",
+                    "B": "Rajiv Bahl",
+                    "C": "Pralay Mondal",
+                    "D": "Bharat Lal",
+                    "correct answer": "D",
+                    "asked in": "cgl 22"
+                },
+                {
+                    "Questions": "The__________is a set of written rules that are accepted by all people living within acountry.",
+                    "A": "Writ",
+                    "B": "Document",
+                    "C": "Constitution",
+                    "D": "Bill",
+                    "correct answer": "C",
+                    "asked in": "cgl 22"
+                },
+                {
+                    "Questions": "In which year were the 73rd and 74th amendments passed by the Parliament?",
+                    "A": "1989",
+                    "B": "1992",
+                    "C": "1990",
+                    "D": "1995",
+                    "correct answer": "B",
+                    "asked in": "cgl 22"
+                },
+                {
+                    "Questions": "Which Article of the Constitution separates the judiciary from the executive?",
+                    "A": "Article 143",
+                    "B": "Article 50",
+                    "C": "Article 144",
+                    "D": "Article 74",
+                    "correct answer": "B",
+                    "asked in": "cgl 22"
+                },
+                {
+                    "Questions": "Which Part of the Constitution of India reflects the Fundamental Duties?",
+                    "A": "Part X",
+                    "B": "Part XII",
+                    "C": "Part IV-A",
+                    "D": "Part IX-B",
+                    "correct answer": "C",
+                    "asked in": "cgl 22"
+                }
+    }}
+        
+    }
+}

@@ -1,0 +1,51 @@
+.container{
+     width: 740px;
+     margin: auto;
+     margin-top: 120px;
+     background-color:white;
+     color: #262626;
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     border-radius:10px;
+     padding: 40px;
+}
+
+.container h2{
+    font-size: 27px;
+    font-weight: 550;
+    background-color:transparent;
+}
+
+.container ul{
+    background-color:transparent;
+}
+.container ul li{
+    position: relative;
+    left: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    width: 70%;
+    padding-left: 15px;
+    border:1px solid #686868;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color:transparent;
+}
+
+.container button{
+    margin
+    width: 200px;
+    height: 45px;
+    background:blue;
+    color:white;
+    font-size: 25px;
+    font-weight:500;
+    cursor: pointer;
+    position: relative;
+    left:220px;
+}

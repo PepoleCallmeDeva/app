@@ -1,0 +1,13 @@
+nav{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav #left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 5px;
+}

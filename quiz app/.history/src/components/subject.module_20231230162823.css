@@ -1,0 +1,14 @@
+#sbody{
+    margin-top: 30px;
+    background-color:azure;
+    height: 150vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+#sbody #sub{
+    height: 200px;
+    width: 300px;
+}

@@ -1,0 +1,64 @@
+#navbody{
+    padding: 0;
+    margin: 0;
+
+    background:#86B6F6;
+    border-bottom: 1px solid rgb(189, 186, 186);
+}
+nav{
+    height: 60px;
+    width: 85%;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    background-color:transparent;
+   
+}
+
+nav #left{
+    display: flex;
+    width: 50%;
+    background-color:transparent;
+}
+
+nav #left>h1{
+    padding: 0.5rem;
+    width: 100%;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    right: 20px;
+    cursor: pointer;
+    background-color:transparent;
+}
+
+nav #left>h1 span{
+    font-weight: bold;
+    font-size: 26px;
+    position: relative;
+    right: 4px;
+    background-color:transparent;
+}
+
+nav #right{
+    display: flex;
+    align-items:center;
+    justify-content: flex-end;
+    width: 50%;
+    background-color:transparent;
+}
+
+nav #right button{
+    width: 20%;
+    height: 40px;
+    padding: 0.5rem;
+    background-color:transparent;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+}
+
+nav #right #sign{
+    background-color:#596FB7;
+}

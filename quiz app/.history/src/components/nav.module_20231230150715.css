@@ -1,0 +1,17 @@
+nav{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: spa;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+nav #left{
+    background-color:bisque;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width: 50%;
+
+}

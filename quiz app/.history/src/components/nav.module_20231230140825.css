@@ -1,0 +1,19 @@
+nav{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+}
+
+nav #left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav #left>img{
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
